@@ -24,7 +24,7 @@ The storefronts serve unique customer requirements. The storefronts enable targe
 ## Understanding the Differences between the storefronts  
 Choosing a storefront starts with identifying the target audience for your offer. If targeting both audiences, then you may publish once to sell in both storefronts.  
  
-Consider the additional benefits for the storefronts.   
+Consider the additional benefits for the storefronts:   
 
 ### AppSource  
 
@@ -47,6 +47,5 @@ Consider the additional benefits for the storefronts.
 | ***In-context presentation to customers*** | Make your solution available in the Azure in-portal experience for contextual search using virtual machines and Azure apps: Solution template. |  
 
 ## Next steps
-*   Visit the [Azure Marketplace and AppSource Publisher Guide](./marketplace-publishers-guide.md) page.  
-*   
+*   Visit the [Azure Marketplace and AppSource Publisher Guide](./marketplace-publishers-guide.md) page.
 ---  
