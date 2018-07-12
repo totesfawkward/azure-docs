@@ -48,5 +48,4 @@ Consider the additional benefits for the storefronts.
 
 ## Next steps
 *   Visit the [Azure Marketplace and AppSource Publisher Guide](./marketplace-publishers-guide.md) page.  
-*   
 ---  
